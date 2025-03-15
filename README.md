@@ -1,3 +1,9 @@
+This is a BMI Calculator Mini Project
+
+![image](https://github.com/user-attachments/assets/a419846b-2da6-44e6-b01a-0861b28f9a38)
+![image](https://github.com/user-attachments/assets/17b18284-43e4-4553-8802-87135344c871)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
